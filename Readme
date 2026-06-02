@@ -2,24 +2,39 @@ Cursor Setup Assignment
 
 What tools you installed
 Cursor IDE
-GitHub
-Anthropic API integration (connected through API key)
-git version 2.54.0
+Git for Windows (v2.54.0)
+GitHub Account
+Anthropic API Integration (connected through API key)
+OpenAI API Integration (connected through API key)
 
 What steps you completed
 Installed Cursor IDE.
 Created a public GitHub repository.
 Opened the repository in Cursor.
+Created a README.md file documenting the setup process.
 Researched how to connect Anthropic and OpenAI services when the Claude Code and Codex extensions were not available in the current Cursor Marketplace.
 Connected Anthropic API access in Cursor Settings.
 Connected OpenAI API access in Cursor Settings.
+Initialized a local Git repository.
+Committed project files using Git.
+Pushed the repository to GitHub.
 
 Issues Encountered
 
 ** Claude Code and Codex extensions were not available
-
-I searched for "Claude Code" and "Codex" in the current Cursor Marketplace but could not find either extension.
-
-To solve this issue, I researched alternative methods and found that Cursor allows direct integration through Anthropic and OpenAI API keys in the Settings > Models section.
+I searched for "Claude Code" and "Codex" in the current Cursor Marketplace 
+but could not find either extension.
+To solve this issue, I researched alternative methods and found that Cursor allows integration through Anthropic and OpenAI API keys in the Settings > Models section.
 
 As a workaround, I connected both services using API keys instead of installing marketplace extensions.
+
+Cursor interface differences
+
+The version of Cursor available to me was different from several tutorials I found online. 
+Some features and menus appeared in different locations, making it difficult to follow older guides exactly.
+To solve this issue, I explored the current interface and used available documentation and tutorials to identify equivalent functionality.
+
+Learning the Git and GitHub workflow
+
+I had limited experience using Git from a local development environment. I needed to learn how to initialize a repository, create commits, connect a local repository to GitHub, and push changes successfully.
+To solve this issue, I followed Git documentation and online resources until I was able to complete the workflow and publish the repository to GitHub.
