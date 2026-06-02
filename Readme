@@ -1,0 +1,24 @@
+Cursor Setup Assignment
+
+What tools you installed
+Cursor IDE
+GitHub
+Anthropic API integration (connected through API key)
+
+What steps you completed
+Installed Cursor IDE.
+Created a public GitHub repository.
+Opened the repository in Cursor.
+Researched how to connect Anthropic and OpenAI services when the Claude Code and Codex extensions were not available in the current Cursor Marketplace.
+Connected Anthropic API access in Cursor Settings.
+Connected OpenAI API access in Cursor Settings.
+
+Issues Encountered
+
+** Claude Code and Codex extensions were not available
+
+I searched for "Claude Code" and "Codex" in the current Cursor Marketplace but could not find either extension.
+
+To solve this issue, I researched alternative methods and found that Cursor allows direct integration through Anthropic and OpenAI API keys in the Settings > Models section.
+
+As a workaround, I connected both services using API keys instead of installing marketplace extensions.
