@@ -5,16 +5,16 @@ supadata = Supadata(
 )
 
 result = supadata.transcript(
-    url="https://www.youtube.com/watch?v=BJKAurmQ0zA"
+    url="https://www.youtube.com/watch?v=-yWiaoxvKQE"
 )
 
 with open(
-    "Research/youtube-transcripts/josh-braun-cold-calling-reluctance.md",
+    "Research/youtube-transcripts/josh-braun-sales-training-memoryblue.md",
     "w",
     encoding="utf-8"
 ) as f:
 
-    f.write("# Josh Braun - The Cure for Cold Calling Reluctance\n\n")
+    f.write("# Sales Training With memeoryBlue\n\n")
 
     for chunk in result.content:
         f.write(chunk.text + " ")
