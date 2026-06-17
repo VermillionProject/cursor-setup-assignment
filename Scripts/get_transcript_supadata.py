@@ -5,16 +5,17 @@ supadata = Supadata(
 )
 
 result = supadata.transcript(
-    url="https://www.youtube.com/watch?v=-yWiaoxvKQE"
+    url="https://www.youtube.com/watch?v=zGBVpE3DSqs"
 )
 
 with open(
-    "Research/youtube-transcripts/josh-braun-sales-training-memoryblue.md",
+    "Research/youtube-transcripts/Morgan-Ingram-The-Sales-Navigator-System-That-Built-$30M-in-B2B-Pipeline.md",
+
     "w",
     encoding="utf-8"
 ) as f:
 
-    f.write("# Sales Training With memeoryBlue\n\n")
+    f.write("# Aaron Ross - Introducing the New Predictable Revenue Model\n\n")
 
     for chunk in result.content:
         f.write(chunk.text + " ")
