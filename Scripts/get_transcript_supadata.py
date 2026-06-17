@@ -5,17 +5,16 @@ supadata = Supadata(
 )
 
 result = supadata.transcript(
-    url="https://www.youtube.com/watch?v=zGBVpE3DSqs"
+    url="https://www.youtube.com/watch?v=HApMaNtwUTw"
 )
-
 with open(
-    "Research/youtube-transcripts/Morgan-Ingram-The-Sales-Navigator-System-That-Built-$30M-in-B2B-Pipeline.md",
+    "Research/youtube-transcripts/justin-michael-cold-calling-ai-in-sales-and-the-future-of-outbound.md",
 
     "w",
     encoding="utf-8"
 ) as f:
 
-    f.write("# Aaron Ross - Introducing the New Predictable Revenue Model\n\n")
+    f.write("# Justin Michael Cold Calling, AI in Sales, and the Future of Outbound\n\n")
 
     for chunk in result.content:
         f.write(chunk.text + " ")
