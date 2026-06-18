@@ -4,20 +4,23 @@
 
 The goal of this research project is to understand how top B2B SaaS companies build predictable outbound pipelines through cold email, LinkedIn outreach, prospecting, personalization, follow-up strategies, and sales development processes.
 
-## Selected Experts
+---
 
-### 1. Josh Braun
+# Selected Experts
 
-**Platforms:**
+## 1. Josh Braun
+
+### Platforms
 
 - LinkedIn
 - YouTube
 - Podcast Guest Appearances
 
-**Why Selected:**  
+### Why Selected
+
 Josh Braun is one of the most respected voices in outbound sales. His content focuses on cold email messaging, prospect psychology, objection handling, and practical frameworks that help sales professionals increase response rates without relying on aggressive sales tactics.
 
-**Research Focus:**
+### Research Focus
 
 - Cold email messaging
 - Prospect psychology
@@ -26,18 +29,19 @@ Josh Braun is one of the most respected voices in outbound sales. His content fo
 
 ---
 
-### 2. Kevin Dorsey
+## 2. Kevin Dorsey
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Sales Podcasts
 
-**Why Selected:**  
+### Why Selected
+
 Kevin Dorsey is known for building scalable outbound systems and high-performing sales teams. His content combines data-driven sales strategies with practical outbound execution methods.
 
-**Research Focus:**
+### Research Focus
 
 - Outbound pipeline design
 - SDR performance
@@ -46,18 +50,19 @@ Kevin Dorsey is known for building scalable outbound systems and high-performing
 
 ---
 
-### 3. Jason Bay
+## 3. Jason Bay
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - Outbound Squad YouTube Channel
 - Podcasts
 
-**Why Selected:**  
+### Why Selected
+
 Jason Bay specializes in outbound prospecting and cold email strategy. His content often includes real examples, outreach frameworks, and messaging breakdowns used by SaaS sales teams.
 
-**Research Focus:**
+### Research Focus
 
 - Prospecting
 - Cold email strategy
@@ -66,18 +71,19 @@ Jason Bay specializes in outbound prospecting and cold email strategy. His conte
 
 ---
 
-### 4. Morgan Ingram
+## 4. Morgan Ingram
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Podcasts
 
-**Why Selected:**  
+### Why Selected
+
 Morgan Ingram is a recognized expert in multichannel outbound strategies. His content covers LinkedIn outreach, cold calling, social selling, and modern sales development practices.
 
-**Research Focus:**
+### Research Focus
 
 - Multichannel outreach
 - Social selling
@@ -86,18 +92,19 @@ Morgan Ingram is a recognized expert in multichannel outbound strategies. His co
 
 ---
 
-### 5. Aaron Ross
+## 5. Aaron Ross
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Predictable Revenue Content
 
-**Why Selected:**  
+### Why Selected
+
 Aaron Ross created the Predictable Revenue methodology, one of the most influential outbound frameworks in B2B SaaS. His work established many of the outbound principles still used today.
 
-**Research Focus:**
+### Research Focus
 
 - Predictable Revenue framework
 - Outbound process design
@@ -106,18 +113,19 @@ Aaron Ross created the Predictable Revenue methodology, one of the most influent
 
 ---
 
-### 6. Belal Batrawy
+## 6. Belal Batrawy
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - Podcasts
 - Webinar Appearances
 
-**Why Selected:**  
+### Why Selected
+
 Belal Batrawy shares highly tactical outbound sales content based on real-world SaaS experience. His work focuses on prospecting efficiency, messaging, and SDR execution.
 
-**Research Focus:**
+### Research Focus
 
 - Prospecting workflows
 - Outbound execution
@@ -126,18 +134,19 @@ Belal Batrawy shares highly tactical outbound sales content based on real-world 
 
 ---
 
-### 7. Chris Orlob
+## 7. Chris Orlob
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - Podcasts
 - Sales Training Content
 
-**Why Selected:**  
+### Why Selected
+
 Chris Orlob is known for his expertise in sales conversations, discovery frameworks, and messaging. His insights help improve conversion rates throughout the outbound process.
 
-**Research Focus:**
+### Research Focus
 
 - Discovery calls
 - Sales conversations
@@ -146,38 +155,40 @@ Chris Orlob is known for his expertise in sales conversations, discovery framewo
 
 ---
 
-### 8. Justin Michael
+## 8. Armand Farrokh
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Podcasts
 
-**Why Selected:**  
-Justin Michael focuses on modern outbound prospecting, sales automation, and AI-assisted sales workflows. His content explores how technology can improve outbound performance.
+### Why Selected
 
-**Research Focus:**
+Armand Farrokh is a leading voice in modern outbound sales and pipeline generation. His content focuses on prospecting systems, cold calling, sales messaging, account research, and practical outbound frameworks used by B2B SaaS sales teams.
 
-- AI for outbound sales
-- Sales automation
-- Modern prospecting
-- Pipeline acceleration
+### Research Focus
+
+- Prospecting systems
+- Cold calling
+- Sales messaging
+- Pipeline generation
 
 ---
 
-### 9. Will Allred
+## 9. Will Allred
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Sales Podcasts
 
-**Why Selected:**  
+### Why Selected
+
 Will Allred is recognized for his expertise in email deliverability and outbound email infrastructure. His content helps explain the technical side of successful cold outreach campaigns.
 
-**Research Focus:**
+### Research Focus
 
 - Email deliverability
 - Outbound infrastructure
@@ -186,18 +197,19 @@ Will Allred is recognized for his expertise in email deliverability and outbound
 
 ---
 
-### 10. Becc Holland
+## 10. Becc Holland
 
-**Platforms:**
+### Platforms
 
 - LinkedIn
 - YouTube
 - Flip The Script Content
 
-**Why Selected:**  
+### Why Selected
+
 Becc Holland is known for her prospecting and personalization frameworks. Her content emphasizes relevant personalization, buyer research, and effective outbound messaging.
 
-**Research Focus:**
+### Research Focus
 
 - Personalization
 - Buyer research
@@ -206,15 +218,26 @@ Becc Holland is known for her prospecting and personalization frameworks. Her co
 
 ---
 
-## Expected Research Outcomes
+# Expected Research Outcomes
 
 This research aims to identify:
 
-1. Common outbound prospecting frameworks.
-2. Effective cold email structures.
-3. LinkedIn outreach best practices.
-4. Personalization strategies that generate replies.
-5. Follow-up sequences used by top performers.
-6. The role of AI in modern outbound sales.
-7. Repeatable outbound systems that can be applied to B2B SaaS companies.
+- Common outbound prospecting frameworks.
+- Effective cold email structures.
+- LinkedIn outreach best practices.
+- Personalization strategies that generate replies.
+- Follow-up sequences used by top performers.
+- The role of AI in modern outbound sales.
+- Repeatable outbound systems that can be applied to B2B SaaS companies.
+
+# Research Deliverables
+
+The research includes:
+
+- Expert profile analysis.
+- LinkedIn content summaries.
+- YouTube transcript analysis.
+- Sales framework documentation.
+- Actionable outbound sales insights.
+- Best practices for building predictable B2B SaaS pipelines.
 
