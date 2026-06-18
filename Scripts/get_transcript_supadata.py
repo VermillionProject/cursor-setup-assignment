@@ -5,16 +5,15 @@ supadata = Supadata(
 )
 
 result = supadata.transcript(
-    url="https://www.youtube.com/watch?v=HApMaNtwUTw"
+    url="https://www.youtube.com/watch?v=u-4R7Lt0qqM"
 )
 with open(
-    "Research/youtube-transcripts/justin-michael-cold-calling-ai-in-sales-and-the-future-of-outbound.md",
-
+    "Research/youtube-transcripts/armand-farrokh-running-sales-teams-meetings-that-dont-suck.md",
     "w",
     encoding="utf-8"
 ) as f:
 
-    f.write("# Justin Michael Cold Calling, AI in Sales, and the Future of Outbound\n\n")
+    f.write("# Armand Farrokh Running Sales Teams Meetings That Don't Suck\n\n")
 
     for chunk in result.content:
         f.write(chunk.text + " ")
